@@ -2,8 +2,13 @@
 
 This repository contains a sample project in Kotlin,MVVM, RxJava, Dagger and Retrofit.
 
+# Home Screen
 
 ![image](https://user-images.githubusercontent.com/23075249/202003633-fa9c0613-045e-4545-8814-e57657f0b2b1.png)
+
+# Details Screen
+
+![image](https://user-images.githubusercontent.com/23075249/202006799-da892143-3185-4f57-975e-1f0b2dda7cbf.png)
 
 
 ### The app has the following base packages:
