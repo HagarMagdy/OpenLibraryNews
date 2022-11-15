@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenLibraryNews</string>
+    <string name="abs">Abstract</string>
+    <string name="error_loading_image">Can\'t load image</string>
+</resources>
